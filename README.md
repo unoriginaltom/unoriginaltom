@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tom</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I work on things, sometimes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unoriginaltom&label=Profile%20views&color=0e75b6&style=flat" alt="unoriginaltom" /> </p>
